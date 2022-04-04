@@ -1,0 +1,100 @@
+/*
+Theme Name: DTC Assessment
+Theme URI: localhost
+Description: DTC Asessment Cloth Store
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+*/
+
+/*================= Home ==============*/
+
+.categorys {
+color: #818181;
+}
+
+.icons {
+color: #7c49ab;
+}
+
+.latest-blog {
+    max-width: 960px;
+    display: inline-block;
+	max-width: 98%;
+	height: auto;
+	width: 50%;
+	margin: 1%;
+}
+  
+.latest-blog-date {
+    font-size: 1em;
+    color: #818181;
+}
+
+.latest-blog-content {
+    font-size: 1.0em;
+    color: #818181;
+}
+
+.off-woocomerce {
+    display: inline-block;
+}
+
+/*================= Footer ==============*/
+
+.cloth-footer {
+background: #1b1d1c;
+}
+
+.footer-title {
+    color: #9a9a9a;
+}
+
+.footer-list {
+    list-style: none;
+    color: #818181;
+   }
+
+.footer-text {
+    color: #818181;
+}
+
+.footer-link {
+    color: #818181;
+}
+
+
+.newlestter {
+    display: "block";
+}
+
+.newlestter-button {
+    display: "block";
+    background-color: #1eb089;
+    border-style: solid;
+    color: white;
+}
+
+#footer li {
+    list-style: none;
+    margin-left: 0;
+    text-indent: -2.1em;
+}
+
+#footer li:before {
+    content: ">";
+    display: block;
+    float: left;
+    padding-right: 20px;
+    width: 0.7em;
+    color: #9a9a9a;
+}
+
+.social-icons {
+    font-size: 1.8rem;
+    color: #3d3f3e;
+    letter-spacing: 0.5em;
+    text-align: center;
+}
+
+
+
